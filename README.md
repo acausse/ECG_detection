@@ -44,7 +44,8 @@ Algorithms implemented in that package include:
   The final R-peak detection can be accessed via:
   ```python
   r_peaks['agree']
-
+  ```
+  
   This approach improves robustness to noise and morphology changes by requiring agreement across detectors.
 
 ### ECG Phase Estimation
@@ -56,5 +57,6 @@ Algorithms implemented in that package include:
 ###📦 Installation
 Install the required dependencies using pip:
 
+```bash
 pip install numpy scipy py-ecg-detectors
   
