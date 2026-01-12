@@ -52,9 +52,11 @@ Algorithms implemented in that package include:
 - **`get_ecg_phases`**
    Computes a continuous ECG phase signal spanning 0 → 2π between consecutive R-peaks.
 
+
 ---
 
-###📦 Installation
+## 📦 Installation
+
 Install the required dependencies using pip:
 
 ```bash
