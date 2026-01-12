@@ -59,4 +59,5 @@ Install the required dependencies using pip:
 
 ```bash
 pip install numpy scipy py-ecg-detectors
+```
   
